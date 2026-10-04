@@ -1,9 +1,9 @@
-/* 🍏 ACCURATE PREMIUM SYSTEM DESIGN TYPOGRAPHY & LIQUID GLASSMORPHIC CORES OVER WHITE */
+/* 🍏 ACCURATE PREMIUM SYSTEM DESIGN TYPOGRAPHY & DEEP LIQUID GLASSMORPHISM */
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
-    background-color: #ffffff !important; /* Forces background to pure plain premium white */
-    color: #000000 !important; /* Swaps typography to crisp high-contrast black */
+    background-color: #000000 !important; /* Locks theme to pure luxury pitch-black canvas backing */
+    color: #ffffff !important; /* Swaps standard text to high-contrast crisp white */
     font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", sans-serif !important;
     -webkit-font-smoothing: antialiased;
     overflow-x: hidden; width: 100%; display: flex; flex-direction: column; align-items: center;
@@ -12,46 +12,46 @@ body {
 /* MAIN WRAPPER CONTAINER CHASSIS */
 .main-page-wrapper-axis {
     width: 100%; padding-top: 36px; display: flex; flex-direction: column; align-items: center;
-    background-color: #ffffff; min-height: 100vh;
+    background-color: #000000 !important; min-height: 100vh;
 }
 
 .compact-portfolio-chassis { width: 100%; max-width: 330px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; text-align: center; }
 .section-gap-box { width: 100%; margin-bottom: 32px; }
-.hero-title-name { font-size: 32px; font-weight: 800; letter-spacing: -1.2px; line-height: 1.1; margin-bottom: 6px; color: #000000; }
+.hero-title-name { font-size: 32px; font-weight: 800; letter-spacing: -1.2px; line-height: 1.1; margin-bottom: 6px; color: #ffffff; }
 .hero-role-subtitle { font-size: 13px; color: #ff9f0a; font-weight: 700; letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 16px; text-align: center; }
-.bio-explanatory-text { font-size: 14px; color: #3a3a3c; line-height: 1.5; font-weight: 500; text-align: center; }
-.section-heading-text { font-size: 18px; font-weight: 700; color: #000000; margin-bottom: 16px; letter-spacing: -0.4px; }
+.bio-explanatory-text { font-size: 14px; color: #86868b; line-height: 1.5; font-weight: 500; text-align: center; }
+.section-heading-text { font-size: 18px; font-weight: 700; color: #ffffff; margin-bottom: 16px; letter-spacing: -0.4px; }
 
-/* 🔮 INSANELY ELITE FROSTED LIQUID GLASSMORPHIC CARDS CORES */
+/* 🔮 INSANELY ELITE FROSTED LIQUID GLASSMORPHIC CARDS FOR BLACK BACKGROUNDS */
 .glass-studio-card {
-    background: rgba(0, 0, 0, 0.02) !important;
-    border: 0.5px solid rgba(0, 0, 0, 0.06) !important;
-    backdrop-filter: blur(40px) saturate(200%) !important;
-    -webkit-backdrop-filter: blur(40px) saturate(200%) !important;
+    background: rgba(255, 255, 255, 0.03) !important;
+    border: 0.5px solid rgba(255, 255, 255, 0.08) !important;
+    backdrop-filter: blur(40px) saturate(220%) !important;
+    -webkit-backdrop-filter: blur(40px) saturate(220%) !important;
     border-radius: 16px; padding: 16px; width: 100%; margin-bottom: 16px; text-align: left;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
 }
-.card-studio-title { font-size: 16px; font-weight: 700; color: #000000; letter-spacing: -0.3px; }
-.card-studio-desc { font-size: 13px; color: #48484a; margin-top: 4px; line-height: 1.45; }
-.pill-badge { background: rgba(255, 159, 10, 0.12); color: #ff9f0a; padding: 3px 8px; border-radius: 8px; font-size: 10px; font-weight: 700; display: inline-block; margin-bottom: 6px; border: 0.5px solid rgba(255,159,10,0.15); }
+.card-studio-title { font-size: 16px; font-weight: 700; color: #ffffff; letter-spacing: -0.3px; }
+.card-studio-desc { font-size: 13px; color: #86868b; margin-top: 4px; line-height: 1.45; }
+.pill-badge { background: rgba(255, 159, 10, 0.15); color: #ff9f0a; padding: 3px 8px; border-radius: 8px; font-size: 10px; font-weight: 700; display: inline-block; margin-bottom: 6px; border: 0.5px solid rgba(255,159,10,0.2); }
 
 /* 🔮 RE-CALIBRATED LIQUID GLASS BIOGRAPHY DIRECTORY CONTAINER */
 .biography-data-container { 
-    background: rgba(255, 255, 255, 0.6) !important;
-    border: 0.5px solid rgba(0, 0, 0, 0.05) !important;
+    background: rgba(20, 20, 22, 0.4) !important;
+    border: 0.5px solid rgba(255, 255, 255, 0.06) !important;
     backdrop-filter: blur(30px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(30px) saturate(180%) !important;
     border-radius: 12px; width: 100%; padding: 4px 16px; font-size: 14px;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.02);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
 }
-.bio-row-cell { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 0.5px solid rgba(0,0,0,0.05); color: #48484a; }
-.bio-val-text { color: #000000; font-weight: 600; }
+.bio-row-cell { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 0.5px solid rgba(255,255,255,0.06); color: #86868b; }
+.bio-val-text { color: #ffffff; font-weight: 600; }
 
-/* PLATFORM SYSTEM FOOTERS ANCHORS */
-.portfolio-system-footer { width: 100%; padding: 32px 0 60px 0; border-top: 0.5px solid rgba(0, 0, 0, 0.06); text-align: center; }
-.portfolio-system-footer .footer-brand-title { font-size: 14px; font-weight: 700; color: #000000; }
-.portfolio-system-footer .footer-sub-text { font-size: 11px; color: #8e8e93; margin-top: 4px; line-height: 1.45; }
+/* PLATFORM SYSTEM FOOTERS LAYER anchors */
+.portfolio-system-footer { width: 100%; padding: 32px 0 60px 0; border-top: 0.5px solid rgba(255, 255, 255, 0.08); text-align: center; }
+.portfolio-system-footer .footer-brand-title { font-size: 14px; font-weight: 700; color: #ffffff; }
+.portfolio-system-footer .footer-sub-text { font-size: 11px; color: #86868b; margin-top: 4px; line-height: 1.45; }
 
-/* TACTILE MICROSURFACE PRESS SCALING */
-.interactive-scale-feedback { transition: transform 0.1s ease; }
+/* SCALING PRESSED OVERRIDES FOR MOBILE DEVICE CHANNELS */
+.interactive-scale-feedback { transition: transform 0.1s cubic-bezier(0.16, 1, 0.3, 1); }
 .interactive-scale-feedback:active { transform: scale(0.96); opacity: 0.85; }
